@@ -1,0 +1,20 @@
+D:\project\folder file\MyFile\File\DIRECTORY .c.C
+D:\project\folder file\MyFile\File\generated\events_init.c
+D:\project\folder file\MyFile\File\generated\gui_guider.c
+D:\project\folder file\MyFile\File\generated\setup_scr_screen.c
+D:\project\folder file\MyFile\File\generated\widgets_init.c
+D:\project\folder file\MyFile\File\generated\guider_fonts\lv_font_montserratMedium_16.c
+D:\project\folder file\MyFile\File\generated\guider_fonts\lv_font_montserratMedium_19.c
+D:\project\folder file\MyFile\File\generated\guider_fonts\lv_font_montserratMedium_22.c
+D:\project\folder file\MyFile\File\generated\images\_coffee_alpha_50x50.c
+D:\project\folder file\MyFile\File\generated\images\_frame_alpha_400x90.c
+D:\project\folder file\MyFile\File\generated\images\_icon_coffee_beans_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_icon_coffee_grind_lvl_1_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_icon_coffee_grind_lvl_2_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_icon_coffee_grind_lvl_3_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_icon_coffee_powder_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_icon_tea_leaf_alpha_80x80.c
+D:\project\folder file\MyFile\File\generated\images\_select_grind_size_alpha_90x90.c
+D:\project\folder file\MyFile\File\generated\images\_select_your_drink_alpha_90x90.c
+D:\project\folder file\MyFile\File\srcs\lvglGui.c
+D:\project\folder file\MyFile\File\srcs\lvglTimer.c
